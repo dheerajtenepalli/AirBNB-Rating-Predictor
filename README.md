@@ -9,7 +9,7 @@ Algorithms : Randomized Grid search, Random forest regression, Neural Network, X
 
 Tools : 1) IBM Watson for review's emotion and sentimental analysis
 
-2) Google Collab to run the code.
+        2) Google Collab to run the code.
 
 Data Diversity : 16 different cities with 3,800,000 individual reviews for 70000 listings.
 
