@@ -7,9 +7,7 @@ Data : Used 35 different independent variables such as host profile, location, g
 
 Algorithms : Randomized Grid search, Random forest regression, Neural Network, Xgboost.
 
-Tools : 1) IBM Watson for review's emotion and sentimental analysis
-
-        2) Google Collab to run the code.
+Tools : 1) IBM Watson for review's emotion and sentimental analysis 2) Google Collab to run the code.
 
 Data Diversity : 16 different cities with 3,800,000 individual reviews for 70000 listings.
 
